@@ -5,4 +5,5 @@ MacBook-Pro-de-Alisson:git alissoncarvalho$ git config --global core.editor vi
 Aula 11 Estado dos arquivos no git:
 Não monitorado - untracked
 Modificado - modified
-Preparado - staged (adicionado)
+
+Comitado - commit
