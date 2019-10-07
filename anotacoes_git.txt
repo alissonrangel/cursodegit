@@ -10,3 +10,5 @@ Não monitorado - untracked
 Modificado - modified
 Preparado - staged - added
 Consolidado - commit
+
+Aula 15 - parei aqui
