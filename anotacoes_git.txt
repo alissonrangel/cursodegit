@@ -2,8 +2,11 @@
 Aula 10
 MacBook-Pro-de-Alisson:git alissoncarvalho$ git config --global core.editor vi
 
+comando para desfazer o git add em um arquivo especifico - unstage
+git rm --cached ./teste/exercicioaula12.txt
+
 Aula 11 Estado dos arquivos no git:
 Não monitorado - untracked
 Modificado - modified
-
-Comitado - commit
+Preparado - staged - added
+Consolidado - commit
