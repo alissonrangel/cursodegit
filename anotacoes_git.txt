@@ -11,4 +11,59 @@ Modificado - modified
 Preparado - staged - added
 Consolidado - commit
 
-Aula 15 - parei aqui
+Aula 15 - navegando historico dos commits
+
+git checkout <commit> <file>
+Volta para o estado de um commit específico, sem permissão 
+para alterações.
+Vc pode a partir dele criar uma nova branch
+git checkout -b <new-branch-name>
+
+git checkout master -> para voltar para a branch master
+
+Aula 16 - desfazendo com checkout
+git checkout -- <path or file or .> 
+irá desfazer todas as alterações que não estejam
+no Stage desde o último commit, ou seja, antes de
+executar o git add
+
+git checkout HEAD -- <path or file or .>
+irá desfazer todas as alterações, incluindo
+o Stage, desde o último commit, até antes de dar o
+commit e depois de já ter dado o git add
+
+Aula 17 - desfazendo com revert e reset
+
+git revert <commit>
+desfaz o último commit criando um novo
+
+git reset <commit>
+
+git reset --hard <commit>
+resetar um repositario para um determinado commit
+
+git reset HEAD~1 -> volta um commit, e deixa
+em status modificado, ou seja, no momento após a última 
+alteração commitada, após a alteração e antes de
+fazer o git add
+
+git reset HEAD~1 --hard -> apaga o commit e volta
+para o estado do commit anterior, antes das alteracoes
+feitas no commit anterior 
+
+git reset --soft <commit>
+resetar um repositario para um determinado commit,
+antes de se fazer o git add deste commit, fica
+após as suas alterações
+
+git diff <commit_a> <commit_b> -> mostra as diferencas
+entre dois commits
+
+
+Aula 18 - conflitos
+o git identifica os conflitos
+e após resolver, faz-se um commit
+
+Aula 19 - exercicio de conflitos
+
+
