@@ -1,8 +1,5 @@
 linha 1
 linha 2
 linha 3
-<<<<<<< HEAD
 lianha 4 cursodegit
-=======
 linha 4 git0
->>>>>>> fcb3c80a220af874331263efce630b06a55597e2
