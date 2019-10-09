@@ -66,4 +66,8 @@ e após resolver, faz-se um commit
 
 Aula 19 - exercicio de conflitos
 
+Aula 20 - resolvendo conflito com merge
+
+Aula 21 - Visualizando historico numa interface grafica
+do github e interface grafica gitEye
 
