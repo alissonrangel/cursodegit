@@ -5,3 +5,7 @@ linha 4 m
 linha 5 m
 linha 6 m
 linha 7 m
+linha 4 b3
+linha 5 b3
+linha 6 b3
+linha 7 b3
