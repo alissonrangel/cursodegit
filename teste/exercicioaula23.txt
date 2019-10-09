@@ -4,4 +4,6 @@ Saturno
 Urano
 Alteracao na novaBranch
 Sol
-Lua
+Satelite
+Natural 
+da Terra
