@@ -2,4 +2,8 @@ Terra
 Marte
 Saturno
 Urano
-Plutão
+Alteracao na novaBranch
+Sol
+Satelite
+Natural 
+da Terra
