@@ -71,3 +71,36 @@ Aula 20 - resolvendo conflito com merge
 Aula 21 - Visualizando historico numa interface grafica
 do github e interface grafica gitEye
 
+Aula 22 - Branching
+criando ramificações do repositório
+
+para criar uma branch
+git branch <nova_branch>
+
+para excluir uma branch
+git branch -d <branch>
+
+para mudar de branch
+git checkout <branch>
+
+Aula 23 - Exercício 4 - de branch
+
+para adicionar uma nova branch no repositorio do git hub
+git push --set-upstream origin novaBranch
+
+Aula 24 - git merge e exercício
+
+git merge <branch>
+
+Aula 25 - git Rebase
+
+git rebase <branch>
+semelhante ao merge, mas na historia fica uma linha reta
+adiciona os commits da novaBranch após o commit base da
+branch master, e os commits, após o commit base da master, da branch master,
+são adicionados apos aqueles um a um
+
+Aula 26 - Exercício de rebase
+-por fazer
+
+
