@@ -1,6 +1,12 @@
 linha 1 m
 linha 2 m
+<<<<<<< HEAD
 linha 4 b3
 linha 5 b3
 linha 6 b3
 linha 7 b3
+=======
+linha 3 m
+linha 4 m
+linha 5 m
+>>>>>>> aula25rebasemaster 1
