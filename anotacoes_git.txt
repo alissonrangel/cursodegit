@@ -32,6 +32,15 @@ irá desfazer todas as alterações, incluindo
 o Stage, desde o último commit, até antes de dar o
 commit e depois de já ter dado o git add
 
+Aula 14 - git clone e git pull
+git clone <url>
+
+git pull # puxa as alterações do repositorio remoto
+
+
+Obs.: Desfaz as mudanças de um arquifo modified
+git restore pratica_um/pessoas.txt
+
 Aula 17 - desfazendo com revert e reset
 
 git revert <commit>
