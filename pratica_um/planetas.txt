@@ -4,3 +4,4 @@ Saturno
 Urano
 Netuno
 Plutão
+Vênus
