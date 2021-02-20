@@ -62,9 +62,10 @@ Aula 16 - desfazendo com checkout
 git checkout -- <path or file> or git restore * 
 
 # se estiver no stage 
+git restore --staged <file>..." to unstage
+
+# desfaz deste o ultimo commit
 git checkout HEAD -- <path_file>
-
-
 
 Aula 17 - desfazendo com revert e reset
 

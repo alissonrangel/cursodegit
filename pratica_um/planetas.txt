@@ -3,3 +3,4 @@ Marte
 Saturno
 Urano
 Netuno
+Plutão
