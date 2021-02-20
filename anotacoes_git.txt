@@ -41,6 +41,21 @@ git pull # puxa as alterações do repositorio remoto
 Obs.: Desfaz as mudanças de um arquifo modified
 git restore pratica_um/pessoas.txt
 
+Aula 15 - Navegando no histórico
+
+git checkout <commit> <file>
+
+git checkout <codigo do commit> # vai para este commit
+
+Você vai para um o estágio: "detached HEAD"
+Assim vc pode verificar se na época deste commit
+tinha algum bug
+
+não posso fazer commits neste estágio
+para fazer commits, pode criar uma branch nova para isso
+
+git checkout master # volta para o ultimo commit
+
 Aula 17 - desfazendo com revert e reset
 
 git revert <commit>
