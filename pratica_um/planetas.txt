@@ -5,3 +5,4 @@ Urano
 Netuno
 Plutão
 Vênus
+Sol
