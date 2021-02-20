@@ -73,12 +73,14 @@ git revert <commit>
 desfaz o último commit criando um novo
 
 git reset <commit>
+apaga os commits
 
 git reset --hard <commit>
 resetar um repositario para um determinado commit
+não usa se já estiver no github
 
 git reset HEAD~1 -> volta um commit, e deixa
-em status modificado, ou seja, no momento após a última 
+em status modified, ou seja, no momento após a última 
 alteração commitada, após a alteração e antes de
 fazer o git add
 
