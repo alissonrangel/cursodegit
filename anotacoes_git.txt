@@ -56,6 +56,13 @@ para fazer commits, pode criar uma branch nova para isso
 
 git checkout master # volta para o ultimo commit
 
+Aula 16 - desfazendo com checkout
+
+# desfaz as alterações de um arquivo modified (ainda não no stage)
+git checkout -- <path or file> or git restore * 
+
+
+
 Aula 17 - desfazendo com revert e reset
 
 git revert <commit>
