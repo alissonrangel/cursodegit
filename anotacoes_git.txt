@@ -102,11 +102,21 @@ o git identifica os conflitos
 e após resolver, faz-se um commit
 
 Aula 19 - exercicio de conflitos
+Quando dou um pull e tem conflito, 
+automaticamente o meu arquivo é alterado
+mostrando as alterações.
+<<<<< - mostra a minha
+>>>>> - mostra a de outra pessoa
+então eu tenho que apagar as marcações
+e salvar o resultado.
 
 Aula 20 - resolvendo conflito com merge
 
 Aula 21 - Visualizando historico numa interface grafica
 do github e interface grafica gitEye
+programa - gitEye
+ver os diffs, faz add, commit em arqvos
+especificos
 
 Aula 22 - Branching
 criando ramificações do repositório
