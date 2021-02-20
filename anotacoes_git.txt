@@ -103,4 +103,18 @@ são adicionados apos aqueles um a um
 Aula 26 - Exercício de rebase
 -por fazer
 
+Aula 27 - git fetch
 
+
+
+Aula 28 - tag
+
+
+
+Aula 29
+
+Aula 30 - Interfaces gráficas
+
+Aula 31
+
+Aula 32 - fork e issues
