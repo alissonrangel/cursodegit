@@ -10,3 +10,5 @@ Endor
 Jakku
 Betha
 Centauro
+Alpha 1
+Omega
