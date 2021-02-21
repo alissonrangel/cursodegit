@@ -7,8 +7,10 @@ Plutão
 Vênus
 Sol
 Endor
-Jakku
+Jakku HEAD
 Betha
 Centauro
 Alpha 1
 Omega
+Lua
+Jakarta
