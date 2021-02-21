@@ -121,6 +121,8 @@ especificos
 Aula 22 - Branching
 criando ramificações do repositório
 
+git branch # mostra as branchs
+
 para criar uma branch
 git branch <nova_branch>
 
@@ -130,15 +132,23 @@ git branch -d <branch>
 para mudar de branch
 git checkout <branch>
 
+# para fazer o upload de uma nova branch no github
+git push --set-upstream origin novaBranch_2021_1
+git push -u origin novaBranch_2021_1
+
 Aula 23 - Exercício 4 - de branch
 
 para adicionar uma nova branch no repositorio do git hub
 git push --set-upstream origin novaBranch
+git push -u origin novaBranch
 
 Aula 24 - git merge e exercício
 
+na branch master, dou o comando:
+git merge novaBranch
 git merge <branch>
 
+#PAREI AQUI
 Aula 25 - git Rebase
 
 git rebase <branch>
