@@ -8,3 +8,5 @@ Vênus
 Sol
 Endor
 Jakku
+Alpha 1
+Omega
