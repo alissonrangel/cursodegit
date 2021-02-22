@@ -144,6 +144,7 @@ git push -u origin novaBranch
 
 Aula 24 - git merge e exercício
 
+para colocar as modificações de uma branch na branch atual
 na branch master, dou o comando:
 git merge novaBranch
 git merge <branch>
