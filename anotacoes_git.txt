@@ -149,7 +149,6 @@ na branch master, dou o comando:
 git merge novaBranch
 git merge <branch>
 
-#PAREI AQUI
 Aula 25 - git Rebase
 
 git rebase <branch>
