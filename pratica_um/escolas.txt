@@ -1,5 +1,8 @@
 Pituchinha
 Inec
 Anglo
+<<<<<<< HEAD
 Dom Bosco
 Dom Barreto
+Diocesano
+Lerote
