@@ -165,13 +165,21 @@ Aula 27 - git fetch
 
 
 Aula 28 - tag
-
+util para definir versões estáveis do projeto
+git tag <nome da tag>
+git push <remote> <tag>
 
 
 Aula 29
 
 Aula 30 - Interfaces gráficas
 
-Aula 31
+Aula 31 - GitHub e colaboração com Open Source
 
 Aula 32 - fork e issues
+
+Aula 33 - 
+
+Aula 34 - Projeto Final
+
+Aula 35 -
