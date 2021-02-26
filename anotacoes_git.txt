@@ -183,3 +183,5 @@ Aula 33 -
 Aula 34 - Projeto Final
 
 Aula 35 -
+
+Aula 37 - Git ignore
