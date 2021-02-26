@@ -1,1 +1,4 @@
 /.project
+pasta_ignorada/
+**/*.css
+**/*.png
