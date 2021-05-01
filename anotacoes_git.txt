@@ -185,3 +185,10 @@ Aula 34 - Projeto Final
 Aula 35 -
 
 Aula 37 - Git ignore
+
+Aula 38 - git commit --amend
+Altera o ultimo commit
+    mensagem de commit
+    adiciona arquivos
+
+Aula 39 - git stash
