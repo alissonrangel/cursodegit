@@ -8,3 +8,5 @@ Shiriu
 Saga
 Canon
 Mu
+Mu
+Aldebaran
