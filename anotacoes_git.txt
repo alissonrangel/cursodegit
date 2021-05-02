@@ -161,8 +161,9 @@ Aula 26 - Exercício de rebase
 -por fazer
 
 Aula 27 - git fetch
+pull = fetch + merge
 
-
+fetch + rebase
 
 Aula 28 - tag
 util para definir versões estáveis do projeto
